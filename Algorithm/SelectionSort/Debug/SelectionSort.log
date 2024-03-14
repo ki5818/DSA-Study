@@ -1,0 +1,3 @@
+﻿  selectionSort.c
+C:\Users\nw\source\repos\Algorithm\SelectionSort\selectionSort.c(15,6): warning C4101: 'min' :참조되지 않은 지역 변수입니다.
+  SelectionSort.vcxproj -> C:\Users\nw\source\repos\Algorithm\Debug\SelectionSort.exe

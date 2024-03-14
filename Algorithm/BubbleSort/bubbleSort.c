@@ -17,7 +17,7 @@ void bubble_sort(int list[], int n) {
 		}
 	}
 }
-
+    
 int main() {
 	int cnt = 0;
 	n = MAX_SIZE;

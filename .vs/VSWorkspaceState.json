@@ -4,8 +4,9 @@
     "\\Algorithm",
     "\\Algorithm\\BubbleSort",
     "\\Algorithm\\InsertionSort",
-    "\\Algorithm\\MergeSort"
+    "\\Algorithm\\MergeSort",
+    "\\DS"
   ],
-  "SelectedNode": "\\Algorithm\\MergeSort",
+  "SelectedNode": "\\Algorithm\\BubbleSort\\bubbleSort.c",
   "PreviewInSolutionExplorer": false
 }

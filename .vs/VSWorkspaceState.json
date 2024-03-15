@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Algorithm",
+    "\\Algorithm\\BubbleSort",
+    "\\Algorithm\\InsertionSort",
+    "\\Algorithm\\MergeSort"
   ],
-  "SelectedNode": "\\C:\\Users\\potato\\Source\\Repos\\DSA-Study",
+  "SelectedNode": "\\Algorithm\\MergeSort",
   "PreviewInSolutionExplorer": false
 }

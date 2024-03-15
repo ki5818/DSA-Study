@@ -15,23 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="quickSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="algorithm.h">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="power.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="hanoi.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\MergeSort\MergeSort.vcxproj" />
   </ItemGroup>
 </Project>

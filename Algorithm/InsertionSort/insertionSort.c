@@ -3,7 +3,6 @@
 * 정렬되어 있는 리스트에 새로운 레코드를 적절한 위치에 삽입하는 과정 반복
 */
 
-
 #include <stdio.h>
 #define MAX_SIZE 100
 #define SWAP(x, y, t) ((t) = (x), (x) = (y), (y) = (t))
@@ -20,7 +19,6 @@ void insertion_sort(int list[], int n) {
 		}
 			list[j + 1] = key;
 	}
-
 }
 
 int main() {

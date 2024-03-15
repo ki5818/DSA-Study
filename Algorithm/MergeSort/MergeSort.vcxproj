@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{eaea9c3c-8a5a-4919-a82c-dbe413637177}</ProjectGuid>
-    <RootNamespace>Algorithm</RootNamespace>
+    <ProjectGuid>{a7dbf60d-743e-4465-81e1-dfc4bccbba69}</ProjectGuid>
+    <RootNamespace>MergeSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,14 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="algorithm.h" />
-    <ClCompile Include="array.c" />
-    <ClCompile Include="power.c" />
-    <ClCompile Include="main.c" />
-    <ClCompile Include="hanoi.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\MergeSort\MergeSort.vcxproj" />
+    <ClCompile Include="mergeSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,8 @@
+/*
+* 버블정렬
+* 인접한 두개의 레코드 비교
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

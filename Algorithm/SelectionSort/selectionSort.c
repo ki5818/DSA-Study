@@ -9,20 +9,20 @@
 #define MAX_SIZE 100
 #define SWAP(x, y, t) ((t) = (x), (x) = (y), (y) = (t))
 
-int list[MAX_SIZE];
-int n;
 
 void selection_sort(int list[], int n) {
 	int temp;
 	for (int i = 0; i < n - 1; i++) {
 		for (int j = i + 1; j < n; j++) {
 			if (list[j] < list[i])
-			SWAP(list[i], list[j], temp);
+				SWAP(list[i], list[j], temp);
 		}
 	}
 }
 
 int main() {
+	int list[MAX_SIZE];
+	int n;
 	int cnt = 0;
 	n = MAX_SIZE;
 	for (int i = 0; i < n; i++) {
